@@ -115,5 +115,16 @@ AI Generated</description>
       <itunes:duration>650</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Quipu: The Empire That Computed in Knots</title>
+      <description>Elias and Clara on the quipu: the knotted string computer of the Inca Empire, Locke and the decimal knots, the Puruchuco archive that sums like a spreadsheet, Urton and the binary code claim, Hyland and the Collata letters, the Santa Valley census match, and an archive whose key died with its keepers. Follow along on Instagram: @anci.entintelligence
+
+AI Generated</description>
+      <pubDate>Sat, 07 Nov 2026 00:49:13 +0000</pubDate>
+      <guid isPermaLink="false">ep-c66ea6f5-31a7-4229-b5a2-942e005af2f8</guid>
+      <enclosure url="https://muse.ai/podcasts/media/661200507070455/dd38c9f1-20d6-4796-a942-b6bf62111804/ep-c66ea6f5-31a7-4229-b5a2-942e005af2f8.mp3" length="5490853" type="audio/mpeg"/>
+      <itunes:duration>686</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
